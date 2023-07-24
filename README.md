@@ -1,2 +1,2 @@
-# backoffice-application
-백오피스 구현을 위한 토이 프로젝트
+# mysql-in-action
+mysql 관련 궁금한 내용 실험
