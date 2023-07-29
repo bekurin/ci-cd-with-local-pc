@@ -1,3 +1,2 @@
-docker rm -f $(docker ps -a -q)
-docker volumn rm $(docker volume ls -q)
+docker-compose down
 docker-compose up
