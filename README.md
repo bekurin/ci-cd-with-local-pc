@@ -6,3 +6,5 @@ mysql 관련 궁금한 내용 실험
 - [with rollup 명령어를 통해 한번에 집계 내역 가져오기](https://github.com/bekurin/mysql-in-action/tree/main/posts/with-rollup)
 - [right, like 명령어 분석](https://github.com/bekurin/mysql-in-action/tree/main/posts/right-vs-like)
 - [count 쿼리에 와이드카드 연산자를 사용해야하는 이유](https://github.com/bekurin/mysql-in-action/tree/main/posts/count)
+- [left, like 명령어 분석](https://github.com/bekurin/mysql-in-action/tree/main/posts/left-vs-like)
+- [인덱스를 사용하지 못하는 경우](https://github.com/bekurin/mysql-in-action/tree/main/posts/not-using-index)
