@@ -9,3 +9,4 @@ mysql 관련 궁금한 내용 실험
 - [left, like 명령어 분석](https://github.com/bekurin/mysql-in-action/tree/main/posts/left-vs-like)
 - [인덱스를 사용하지 못하는 경우](https://github.com/bekurin/mysql-in-action/tree/main/posts/not-using-index)
 - [선처리 함수는 인덱스를 사용하지 못하게 한다](https://github.com/bekurin/mysql-in-action/tree/main/posts/pre-processing)
+- [order by 절에서 인덱스를 사용하는 법](https://github.com/bekurin/mysql-in-action/tree/main/posts/using-index-with-sort)
